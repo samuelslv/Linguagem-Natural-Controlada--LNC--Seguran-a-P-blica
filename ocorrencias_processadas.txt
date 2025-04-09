@@ -1,0 +1,29 @@
+ocorrências:
+  registro:
+    tipo: perda
+    data: 12/12/23
+    local: shoping rio poty
+    relato: perdi minha carteira
+    envolvidos: Joãl Gabriel Silva
+    objetos: carteira
+  registro:
+    tipo: ameaça
+    data: 01/01/25
+    local: supermercado mix matheus
+    relato: pessoa disse que ia me matar na fila
+    envolvidos: Guto Portela e Andre Marques
+    objetos: nenhum
+  registro:
+    tipo: acidente
+    data: 06/04/25 18:33
+    local: rua dirce oliveira
+    relato: carro bateu em minha moto e fugiu
+    envolvidos: Neymar silva
+    objetos: nenhum
+  registro:
+    tipo: estelionato
+    data: 03/03/24
+    local: internet
+    relato: fui ludibriado a deixar meu dinheiro na porta de uma casa
+    envolvidos: Romulo Mendes
+    objetos: nenhum typo :

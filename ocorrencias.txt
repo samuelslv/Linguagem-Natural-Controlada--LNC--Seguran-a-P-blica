@@ -1,0 +1,10 @@
+tipo: furto data: 23/01/2024 20:30 local: sala 266 na UFPI relato: deixei minha bolsa na sala de aula, quando voltei ela não estava mais la envolvidos: Andre Silva Mendes objetos: mochila com livros, estojo e outros pertences
+tipo: perda data: 12/12/23 local: shoping rio poty relato: perdi minha carteira envolvidos: Joãl Gabriel Silva objetos: carteira
+tipo: roubo data: 05/04/2025 16:15 local: em frente ao teresina shoping relato: me roubaram quando saia do shoping envolvidos: Herley e homem de capa preta objetos: celular
+tipo: ameaça data: 01/01/25 local: supermercado mix matheus relato: pessoa disse que ia me matar na fila envolvidos: Guto Portela e Andre Marques objetos: nenhum
+tipo: acidente data: 06/04/25 18:33 local: rua dirce oliveira relato: carro bateu em minha moto e fugiu envolvidos: Neymar silva objetos: nenhum
+tipo: estelionato data: 03/03/24 local: internet relato: fui ludibriado a deixar meu dinheiro na porta de uma casa envolvidos: Romulo Mendes objetos: nenhum
+typo: perda data: 12/12/23 local: shoping rio poty relato: perdi minha carteira envolvidos: Joãl Gabriel Silva objetos: carteira
+data: 05/04/2025 16:15 tipo: roubo local: em frente ao teresina shoping relato: me roubaram quando saia do shoping envolvidos: Herley e homem de capa preta objetos: celular
+tipo: confusão data: 01/01/35 local: supermercado mix matheus relato: pessoa disse que ia me matar na fila envolvidos: Guto Portela e Andre Marques objetos:
+
